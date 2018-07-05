@@ -1,4 +1,4 @@
-#Spring Boot with GraphQL Query Example
+# Spring Boot with GraphQL Query Example
 
 Here is the sample example to demonstrate usage of GraphQL for exposing data to specified HTTP endpoint or URL
 
